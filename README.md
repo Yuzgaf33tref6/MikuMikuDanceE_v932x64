@@ -6,5 +6,3 @@
 ### How to use
 - In MMD select file -> open and then find pmm file in forder project.
 
-
-### :copyright: This is my projects that I share with my friends, if you use for making video, remember credit author (model, stage, motion). Thank you very much!
